@@ -1,0 +1,3 @@
+code 200 it's ok yes
+code 500 it's bad
+code 300 i don't know what it is
